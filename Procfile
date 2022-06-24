@@ -1,1 +1,1 @@
-web : gunicorn PMDCENTER.wsgi
+web:gunicorn PMDCENTER.wsgi
